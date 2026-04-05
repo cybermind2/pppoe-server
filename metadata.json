@@ -1,0 +1,6 @@
+{
+  "id": 12,
+  "name": "pppoe-server",
+  "description": "AdoPiSoft PPPOE Server Plugin",
+  "version": "1.0.6"
+}
